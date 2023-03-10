@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @szerli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++, Java and Swift
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning HTML, CSS and JS
+- 📫 How to reach me ; kacpermizera01@icloud.com
 
 <!---
 szerli/szerli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
